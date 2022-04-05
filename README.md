@@ -11,7 +11,7 @@
   *  P2P port: 42018
   *  Coinbase maturity (default 25 confirmation) blocks
   *  Transaction (default 6 confirmation) blocks
-  *  Total Coin : 25.000.000 ( Approximately 15 years )
+  *  Total Coin : 5.000.000 ( Approximately 8 years )
   *  PreMine : 1.700.000
   
   *  Rewards Pow - BlockHeight <= 125000 - 2 Coins

@@ -1,4 +1,4 @@
-# MasterStake 2022
+# MasterStake 
 -------
 #### Coin Specification :
 -------

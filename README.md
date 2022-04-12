@@ -56,7 +56,7 @@ PreMine : 1.700.000
 *  https://bitcointalk.org/index.php?topic=5293208
 *  https://bitcoingarden.org/forum/index.php?topic=96439
 *  https://discord.gg/34cfpAbc6M
-*  https://coinpaprika.com/criptomoeda/msc-miner-stake-coin/
+*  https://coinpaprika.com/coin/msc-master-stake-coin/
 *  https://explorer.masterstake.online
 *  https://masterstake.online/
 

@@ -65,7 +65,7 @@ PreMine : 1.700.000
 
  Donations for development are greatly appreciated!
  
-  * MSC: MBg8budgNBwojRZSJM8e7VUrvfJ4J7qHH4 
+  * MASTER: MBg8budgNBwojRZSJM8e7VUrvfJ4J7qHH4 
   
 ### LICENSE
 -------

@@ -489,7 +489,7 @@ std::string HelpMessage(HelpMessageMode mode)
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "</masterstake>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/carlinhos2008/masterstake>";
     const std::string URL_WEBSITE = "<https://masterstake.online>";
     // todo: remove urls from translations on next change
 
